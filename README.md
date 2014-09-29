@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 introToAndroid4e
 ================
 
@@ -16,3 +17,9 @@ Or you could issue the following command from a command line to get the code.
 `git clone https://github.com/lambo4jos/introToAndroid4e.git`
 
 Happy learning!
+=======
+introToDroid4ed
+===============
+
+Code from Intro to Android Application Development, 4th edition w some annotations and updates
+>>>>>>> a0a9dccec2b20177b61216e9b6f0c6d9adcebf83
